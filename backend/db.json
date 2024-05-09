@@ -1,0 +1,74 @@
+{
+  "Songs": [
+    {
+      "id": "5abd",
+      "Title": "Not Like Us",
+      "Artist": "Kendrick Lamar",
+      "Genre": "Hip-Hop",
+      "Song": "T6eK-2OQtew"
+    },
+    {
+      "id": "2417",
+      "Title": "Middle Child",
+      "Artist": "J.cole",
+      "Genre": "Hip-Hop",
+      "Song": "WILNIXZr2oc"
+    },
+    {
+      "id": "1a54",
+      "Title": "Like That",
+      "Artist": "Metro Boomin ft Future",
+      "Genre": "Hip-Hop",
+      "Song": "N9bKBAA22Go"
+    },
+    {
+      "id": "7fd8",
+      "Title": "Mocking Bird",
+      "Artist": "Eminem",
+      "Genre": "Hip-Hop",
+      "Song": "FjVjHkezTIM"
+    },
+    {
+      "id": "121b",
+      "Title": "Diamonds",
+      "Artist": "Rihana",
+      "Genre": "Pop",
+      "Song": "lWA2pjMjpBs"
+    },
+    {
+      "id": "2ddf",
+      "Title": "I like the way you kiss me",
+      "Artist": "Artemis",
+      "Genre": "Pop",
+      "Song": "evJ6gX1lp2o"
+    },
+    {
+      "id": "1e1f",
+      "Title": "Starlight",
+      "Artist": "Dave",
+      "Genre": "UK Hip-Hop",
+      "Song": "iVWsP3IadBk"
+    },
+    {
+      "id": "c8ad",
+      "Title": "Rolling In The Deep",
+      "Artist": "Adele",
+      "Genre": "R&B",
+      "Song": "rYEDA3JcQqw"
+    },
+    {
+      "id": "455a",
+      "Title": "Blinding Lights",
+      "Artist": "The Weekend",
+      "Genre": "Pop",
+      "Song": "4NRXx6U8ABQ"
+    },
+    {
+      "id": "fb81",
+      "Title": "She Knows",
+      "Artist": "J.cole",
+      "Genre": "Hip-Hop",
+      "Song": "jYdaQJzcAcw"
+    }
+  ]
+}
