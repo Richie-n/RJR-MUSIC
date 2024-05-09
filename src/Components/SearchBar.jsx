@@ -6,7 +6,7 @@ function SearchBar({ addToPlaylist, playlist }) {
   const [searchResults, setSearchResults] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/Songs')
+    fetch('https://rjr-music.onrender.com/Songs')
       .then(response => response.json())
       .then(data => setSongs(data))
       .catch(error => console.error('Error fetching data:', error));

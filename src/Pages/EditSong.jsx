@@ -21,7 +21,7 @@ function EditSong() {
   const {id} = useParams();
 
   useEffect(() => {
-    fetch(`http://localhost:3000/Songs/${id}`)
+    fetch(`https://rjr-music.onrender.com/Songs/${id}`)
       .then((response) => response.json())
       .then((data) => {
         setFormData(data);
@@ -32,7 +32,7 @@ function EditSong() {
   const handleSubmit = (e) => {
     e.preventDefault();
     
-    fetch(`http://localhost:3000/Songs/${id}`, {
+    fetch(`https://rjr-music.onrender.com/Songs/${id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",

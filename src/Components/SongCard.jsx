@@ -5,7 +5,7 @@ export default function SongCard({ song }) {
     const [deleteSong, setDeleteSong] = useState([]);
 
     const handleDelete = (id) => {
-        fetch(`http://localhost:3000/Songs/${id}`, {
+        fetch(`https://rjr-music.onrender.com/Songs${id}`, {
             method: "DELETE",
         }) 
         .then((response) => response.json())
