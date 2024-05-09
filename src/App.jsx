@@ -16,7 +16,7 @@ function App() {
 
   useEffect(() => {
       // Fetch data from db.json when the component mounts
-      fetch('http://localhost:3000/Songs') // Adjust the path to your JSON file
+      fetch('https://rjr-music.onrender.com/Songs') 
           .then(response => response.json())
           .then(data => setSongs(data))
           .catch(error => console.error('Error fetching data:', error));
