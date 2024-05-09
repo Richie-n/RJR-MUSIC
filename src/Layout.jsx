@@ -40,7 +40,7 @@ export default function Layout() {
 
 
       <div className="min-h-screen  mt-16" style={{
-      backgroundImage: "url('src/Resources/Images/If I Could Fly One Direction Laptop Wallpaper.jpeg')",
+      backgroundImage: "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6q_Nd5TD_05L5-o0-L5IlrT2xhSdzW3mhiw&usqp=CAU')",
       backgroundPosition: "center",
       backgroundAttachment: "fixed",
       backgroundSize: "cover"}}>
@@ -49,7 +49,7 @@ export default function Layout() {
 
 
       <footer class=" bg-gray-700 border-t border-gray-200 shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 dark:border-gray-600">
-          <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" class="hover:underline">RJR MUSIC™</a>. All Rights Reserved.
+          <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href='#' class="hover:underline">RJR MUSIC™</a>. All Rights Reserved.
           </span>
           <ul class="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
               <li>
